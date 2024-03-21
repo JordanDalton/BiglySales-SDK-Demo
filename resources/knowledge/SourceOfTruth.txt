@@ -1,0 +1,24 @@
+Company: Chat Solutions, LLC.
+Founder: John Doe
+Services: Software Engineering Services, ChatBots, AI
+Frameworks:
+	- Laravel
+	- VueJs
+	- TailwindCss
+	- ChatGPT (OpenAi)
+	- Claude AI (Anthropic)
+	- LangChain
+	- ChromaDB
+
+Email: john@chatsolutions.com
+Phone: +18889990000
+
+Innovation Driven By Talent
+
+At Chat Solutions, we are driven by innovation, fueled by talent. For over 17 years, our team of elite software engineers and developers has been at the forefront of designing, building, and implementing cutting-edge solutions for clients across industries.
+
+Our development process is centered around understanding your unique requirements and challenges. We dig deep to map out an intelligent solution tailored specifically for you. Through rigorous testing and rapid iterations, we ensure robust, scalable, and user-friendly products that not only meet your current needs but position you for future growth.
+
+But software is only as good as the talent behind it. That's why we've assembled a world-class team of developers, architects, and engineers with skills sharpened at companies like Google, Amazon, and Microsoft. Their mastery spans leading technologies like cloud computing, machine learning, blockchain, and more.
+
+When you partner with Chat Solutions, you get more than just engineers - you get innovators, collaborators, and creative problem solvers driven to deliver software that gives you a true competitive edge. Contact us today to discuss your vision and how our elite talents can make it a reality through smart, reliable, and results-driven software solutions. The future of your business is driven by what we build together today.
